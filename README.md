@@ -1,16 +1,18 @@
-## Hi there 👋
+### ⚙️ Tech Stack
+**Backend:** Java, Spring Boot, JPA/Hibernate, REST API, MongoDB, MySQL  
+**Frontend:** Next.js, React, TypeScript, TailwindCSS  
+**DevOps:** Docker, Nginx, CI/CD, AWS  
 
-<!--
-**DaiTran02/DaiTran02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📂 Projects
+- **AgriPrice API** – REST API for agricultural price prediction (Spring Boot + MongoDB + Docker)  
+- **Portfolio Website** – Personal site built with Next.js + TailwindCSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=graywhite)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=graywhite)
+
+---
