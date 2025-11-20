@@ -15,10 +15,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <h3>Khi Database hoạt động trơn tru</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYyMTI2OHQzajd1MGN5YWJkbzU5NjF4cG96YzZ6Z2ZkZG9zZXRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1iD9eKzK7I2iY9Y/giphy.gif" alt="Database Working Smoothly GIF" width="400"/>
-</p>
+
 
 ---
 
@@ -28,10 +25,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <h3>Cố gắng căn chỉnh mọi thứ bằng CSS</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZzajB6NWp0MDI2d2N1ajV0YWZqMnZ2dG9xZ2Q0eWk0YW9td2NmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFk7296Bq6s1dZJ4hQ/giphy.gif" alt="Trying to align with CSS GIF" width="400"/>
-</p>
+
 
 ---
 
@@ -42,10 +36,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="center">
-  <h3>Khi mọi thứ chạy được trên máy local, nhưng lỗi khi deploy</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVyeGd1OHd2b291d3o3ajd2eW94NHVscWp4cjI1cW02a2J2enhuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2aqSSm5W/giphy.gif" alt="Local vs Deployment Error GIF" width="400"/>
-</p>
 
 ---
 
