@@ -1,10 +1,5 @@
 # ⚙️ Tech Stack 💻
 
-## ✨ Đang Gõ Phím (Typing Effect) ✨
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Code+is+Life%3B;Debugging+is+Art%3B;Coffee+is+Fuel%3B;Developer+in+Progress..." alt="Typing Effect" />
-</p>
-
 ---
 
 ### 🧠 Backend ☕
@@ -39,13 +34,6 @@
 
 ---
 
-## 📈 Thống Kê GitHub (Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
-</p>
-
----
 
 ## 💡 Châm Ngôn Lập Trình (Quote)
 > "Chỉ có hai cách để viết mã không có lỗi: Cách thứ ba là không viết mã." - Alan Perlis
