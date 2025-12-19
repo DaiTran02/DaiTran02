@@ -34,8 +34,3 @@
 
 ---
 
-
-## 💡 Châm Ngôn Lập Trình (Quote)
-> "Chỉ có hai cách để viết mã không có lỗi: Cách thứ ba là không viết mã." - Alan Perlis
-
----
